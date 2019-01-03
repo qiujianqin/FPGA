@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dJ:\A4_Plus\learning\Verilog_First\simulation\modelsim
+vVerilog_First
+I06@^CZINo]I1Z?@UEP77X1
+V<BaEE:flf_e^8YKm_L@X]0
+Z1 dJ:\A4_Plus\learning\Verilog_First\simulation\modelsim
+w1546325203
+8J:/A4_Plus/learning/Verilog_First/Verilog_First.v
+FJ:/A4_Plus/learning/Verilog_First/Verilog_First.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+n@verilog_@first
+!i10b 1
+!s100 4:ffAn@7iYSD>G3:mggTf1
+!s85 0
+!s108 1546325263.755000
+!s107 J:/A4_Plus/learning/Verilog_First/Verilog_First.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+J:/A4_Plus/learning/Verilog_First|J:/A4_Plus/learning/Verilog_First/Verilog_First.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+J:/A4_Plus/learning/Verilog_First -O0
+vVerilog_First_vlg_tst
+!i10b 1
+!s100 6J;YYQXFAmY9BKN@S@_]b0
+IE>j9WGgmGN<@6R6QMZhRj3
+VVBe1;V6_flaRWTk`RzOfi0
+R1
+w1546324235
+8J:/A4_Plus/learning/Verilog_First/simulation/modelsim/Verilog_First.vt
+FJ:/A4_Plus/learning/Verilog_First/simulation/modelsim/Verilog_First.vt
+L0 28
+R2
+r1
+!s85 0
+31
+!s108 1546325264.005000
+!s107 J:/A4_Plus/learning/Verilog_First/simulation/modelsim/Verilog_First.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+J:/A4_Plus/learning/Verilog_First/simulation/modelsim|J:/A4_Plus/learning/Verilog_First/simulation/modelsim/Verilog_First.vt|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+J:/A4_Plus/learning/Verilog_First/simulation/modelsim -O0
+n@verilog_@first_vlg_tst

@@ -1,0 +1,22 @@
+J:/A4_Plus/learning/Verilog_First/simulation/manual_modelsim/Verilog_First.vt {1 {vlog -work work J:/A4_Plus/learning/Verilog_First/simulation/manual_modelsim/Verilog_First.vt
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Verilog_First_vlg_tst
+
+Top level modules:
+	Verilog_First_vlg_tst
+
+} {} {}} J:/A4_Plus/learning/Verilog_First/simulation/manual_modelsim/Verilog_First.v {1 {vlog -work work J:/A4_Plus/learning/Verilog_First/simulation/manual_modelsim/Verilog_First.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Verilog_First
+
+Top level modules:
+	Verilog_First
+
+} {} {}} J:/A4_Plus/learning/Verilog_First/simulation/manual_modelsim/Verilog_First.vo {1 {vlog -work work J:/A4_Plus/learning/Verilog_First/simulation/manual_modelsim/Verilog_First.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Verilog_First
+
+Top level modules:
+	Verilog_First
+
+} {} {}}
