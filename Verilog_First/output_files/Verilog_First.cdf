@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP4CE15F23) Path("J:/A4_Plus/learning/Verilog_First/output_files/") File("Verilog_First.sof") MfrSpec(OpMask(1));
+		Device PartName(EP4CE15F23) Path("H:/sourcetree/FPGA/Verilog_First/output_files/") File("Verilog_First.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 
